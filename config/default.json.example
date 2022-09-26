@@ -1,0 +1,7 @@
+{
+    "jwtToken": "<your pistonpost token>",
+    "server": {
+        "port": 1213,
+        "host": "localhost"
+    }
+}
